@@ -17,10 +17,10 @@ jobs:
         run: |
           ./gradlew dokkaHtml
           mv ./app/build/dokka/html ./docs
-      - name: Deploy docs
-        uses: actions-go/push@v1
-        with:
-          force: true
-          remote: origin
-          remote-ref: remotes/origin/gh-pages
-          commit-message: '[Auto] update docs'
+      - name: Push docs
+        run: |
+          git config --local user.email "actions-bot@users.noreply.github.com"
+          git config --local user.name "Actions Bot"
+          git add -f docs
+          git diff-index --quiet HEAD || git commit -m "[Auto] update docs"
+          git push origin main:gh-pages --force
