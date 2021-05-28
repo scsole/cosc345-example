@@ -24,4 +24,4 @@ jobs:
       - name: Deploy docs
         run: |
           git fetch origin gh-pages
-          git push origin gh-pages --force
+          git push -u origin gh-pages --force
