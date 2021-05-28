@@ -22,5 +22,5 @@ jobs:
         with:
           force: true
           remote: origin
-          remote-ref: gh-pages
+          remote-ref: origin/gh-pages
           commit-message: '[Auto] update docs'
