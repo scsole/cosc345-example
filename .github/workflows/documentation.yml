@@ -19,7 +19,7 @@ jobs:
           mv ./app/build/dokka/html ./docs
       - name: Push docs
         run: |
-          git config --local user.email "actions-bot@users.noreply.github.com"
+          git config --local user.email "github-actions@users.noreply.github.com"
           git config --local user.name "Actions Bot"
           git add -f docs
           git diff-index --quiet HEAD || git commit -m "[Auto] update docs"
