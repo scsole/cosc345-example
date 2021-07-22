@@ -1,0 +1,56 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:xyz.scsole.myawesomeapp.data.model////PointingToDeclaration/app/xyz.scsole.myawesomeapp.data.model/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data.model/LoggedInUser///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data.model/-logged-in-user/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data.model/LoggedInUser/LoggedInUser/#kotlin.String#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data.model/-logged-in-user/-logged-in-user.html
+$dokka.location:xyz.scsole.myawesomeapp.data.model/LoggedInUser/displayName/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data.model/-logged-in-user/display-name.html
+$dokka.location:xyz.scsole.myawesomeapp.data.model/LoggedInUser/userId/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data.model/-logged-in-user/user-id.html
+$dokka.location:xyz.scsole.myawesomeapp.data////PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginDataSource///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-data-source/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginDataSource/LoginDataSource/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-data-source/-login-data-source.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginDataSource/login/#kotlin.String#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-data-source/login.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginDataSource/logout/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-data-source/logout.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/LoginRepository/#xyz.scsole.myawesomeapp.data.LoginDataSource/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/-login-repository.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/dataSource/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/data-source.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/isLoggedIn/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/is-logged-in.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/login/#kotlin.String#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/login.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/logout/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/logout.html
+$dokka.location:xyz.scsole.myawesomeapp.data/LoginRepository/user/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-login-repository/user.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Error///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-error/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Error/Error/#java.lang.Exception/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-error/-error.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Error/exception/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-error/exception.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Success///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-success/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Success/Success/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-success/-success.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result.Success/data/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/-success/data.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result///PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/index.html
+$dokka.location:xyz.scsole.myawesomeapp.data/Result/toString/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.data/-result/to-string.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login////PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login//afterTextChanged/android.widget.EditText#kotlin.Function1[kotlin.String,kotlin.Unit]/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/after-text-changed.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoggedInUserView///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-logged-in-user-view/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoggedInUserView/LoggedInUserView/#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-logged-in-user-view/-logged-in-user-view.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoggedInUserView/displayName/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-logged-in-user-view/display-name.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginActivity///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-activity/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginActivity/LoginActivity/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-activity/-login-activity.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginFormState///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-form-state/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginFormState/LoginFormState/#kotlin.Int?#kotlin.Int?#kotlin.Boolean/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-form-state/-login-form-state.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginFormState/isDataValid/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-form-state/is-data-valid.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginFormState/passwordError/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-form-state/password-error.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginFormState/usernameError/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-form-state/username-error.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginResult///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-result/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginResult/LoginResult/#xyz.scsole.myawesomeapp.ui.login.LoggedInUserView?#kotlin.Int?/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-result/-login-result.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginResult/error/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-result/error.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginResult/success/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-result/success.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel/LoginViewModel/#xyz.scsole.myawesomeapp.data.LoginRepository/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/-login-view-model.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel/login/#kotlin.String#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/login.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel/loginDataChanged/#kotlin.String#kotlin.String/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/login-data-changed.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel/loginFormState/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/login-form-state.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModel/loginResult/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model/login-result.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModelFactory///PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model-factory/index.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModelFactory/LoginViewModelFactory/#/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model-factory/-login-view-model-factory.html
+$dokka.location:xyz.scsole.myawesomeapp.ui.login/LoginViewModelFactory/create/#java.lang.Class[TypeParam(bounds=[androidx.lifecycle.ViewModel])]/PointingToDeclaration/app/xyz.scsole.myawesomeapp.ui.login/-login-view-model-factory/create.html
+xyz.scsole.myawesomeapp.data
+xyz.scsole.myawesomeapp.data.model
+xyz.scsole.myawesomeapp.ui.login
+
